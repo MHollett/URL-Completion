@@ -9,7 +9,7 @@ DELAY = 0.1
 
 def main():
     # Read json
-    URLfile = open("URLS.json", "r")
+    URLfile = open("C:\\Users\\Malcolm\\Documents\\Projects\\URL Completion\\URLS.json", "r")
     URLS = URLfile.read()
     URLSdict = json.loads(URLS)
 

@@ -1,6 +1,6 @@
 {
     "https://cs.ccsu.edu/~kjell/cs254/":[
-        ["ch04/ch4_"],
+        ["ch04/ch4_","ch05/ch5_"],
         ["count", 1, 150],
         [".html"]
     ]
