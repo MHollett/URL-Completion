@@ -31,6 +31,8 @@ def main():
         if len(printList) > 0:
             print(outputURLs)
 
+        sleep(1)
+
         webscrapeList(outputURLs[-1])
 
 
